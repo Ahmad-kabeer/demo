@@ -1,0 +1,1 @@
+This is s simple LICENSE.md file
